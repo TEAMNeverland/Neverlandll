@@ -8067,7 +8067,7 @@ Neverlandsong = math.random(2,1075);
 local Text ='*✦┇تم اختيار المتحركه لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token ..'/sendanimation?chat_id=' .. msg.chat_id_ .. '&animation=https://t.me/GifDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8088,7 +8088,7 @@ Neverlandsong = math.random(2,1201);
 local Text ='*✦┇تم اختيار الميمز لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendVoice?chat_id=' .. msg.chat_id_ .. '&voice=https://t.me/MemzDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8109,7 +8109,7 @@ Neverlandsong = math.random(2,1167);
 local Text ='*✦┇تم اختيار الاغنيه لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendVoice?chat_id=' .. msg.chat_id_ .. '&voice=https://t.me/DavidMp3/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8130,7 +8130,7 @@ Neverlandsong = math.random(4,2824);
 local Text ='*✦┇تم اختيار المقطع الصوتي لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token..'/sendVoice?chat_id=' .. msg.chat_id_ .. '&voice=https://t.me/AudiosDavid/'..Neverlandsong..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8151,7 +8151,7 @@ Neverlandsong = math.random(2,612);
 local Text ='*✦┇تم اختيار الريمكس لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendVoice?chat_id=' .. msg.chat_id_ .. '&voice=https://t.me/RemixDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8172,7 +8172,7 @@ Neverlandsong = math.random(4,1171);
 local Text ='*✦┇تم اختيار الصوره لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendphoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/PhotosDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8193,7 +8193,7 @@ Neverlandsong = math.random(3,1002);
 local Text ='*✦┇تم اختيار صورة الانمي لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendphoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/AnimeDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8214,7 +8214,7 @@ Neverlandsong = math.random(45,125);
 local Text ='*✦┇تم اختيار الفلم لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendphoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/MoviesDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -8235,7 +8235,7 @@ Neverlandsong = math.random(2,54);
 local Text ='*✦┇تم اختيار المسلسل لك*'
 keyboard = {} 
 keyboard.inline_keyboard = {
-{{text = 'Channel Source ،',url="t.me/TEAM_Neverland"}},
+{{text = '𝖭𝖾𝗏𝖾𝗋𝗅𝖺𝗇𝖽 𝖳𝖾𝖺𝗆 .',url="t.me/TEAM_Neverland"}},
 }
 local msg_id = msg.id_/2097152/0.5 
 https.request("https://api.telegram.org/bot"..token ..'/sendphoto?chat_id=' .. msg.chat_id_ .. '&photo=https://t.me/SeriesDavid/'..Neverlandsong ..'&caption=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard)) 
@@ -9581,7 +9581,7 @@ send(msg.chat_id_, msg.id_,"\n✦┇تم تعطيل الاذاعه")
 return false
 end 
 
-if text == "الاعدادات" and Addictive(msg) then    
+if text == "/lock" and Addictive(msg) then    
 if database:get(bot_id.."Neverland:lockpin"..msg.chat_id_) then    
 lock_pin = "✓"
 else 
@@ -11510,7 +11510,7 @@ send(msg.chat_id_, msg.id_, '*✦┇تم تعطيل @all *')
 return false
 end
 end
-if text == '/lock' and Addictive(msg) then  
+if text == 'الاعدادات' and Addictive(msg) then  
 local Texti = '*\n✦┇اعدادات المجموعه \n✦┇علامة ال (✅) تعني مقفول\n✦┇علامة ال (❌) تعني مفتوح*'
 local mute_text = (database:get(bot_id.."Neverland:Lock:text"..msg.chat_id_)  or '❌')
 local mute_text1 = mute_text:gsub('del', '❬ ✅ ❭')
@@ -11571,7 +11571,7 @@ keyboard.inline_keyboard = {
 local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendMessage?chat_id=' .. msg.chat_id_ .. '&text=' .. URL.escape(Texti).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 end
-if text == '/add' then
+if text == 'اعدادت البوت' then
 local Texti = 'تستطيع تفعيل وتعطيل عبر الازرار'
 keyboard = {} 
 keyboard.inline_keyboard = {
