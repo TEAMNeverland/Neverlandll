@@ -12747,7 +12747,7 @@ os.execute("rm -fr Neverland_Files/*")
 send(msg.chat_id_,msg.id_,"✦┇تم حذف جميع الملفات")
 return false
 end
-if text == "متجر الملفات ↞" or text == 'المتجر' and DevNeverland(msg) then
+if text == " متجر الملفات ↝" or text == 'المتجر' and DevNeverland(msg) then
 if DevNeverland(msg) then
 local Get_Files, res = https.request("https://raw.githubusercontent.com/TEAMNeverland/files_Neverland/master/getfile.json")
 if res == 200 then
