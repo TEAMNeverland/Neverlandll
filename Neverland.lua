@@ -12116,6 +12116,30 @@ local msg_id = msg.id_/2097152/0.5
 https.request("https://api.telegram.org/bot"..token..'/sendMessage?chat_id=' .. msg.chat_id_ .. '&text=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
 return false
 end
+
+if text == 'تحديثات السورس' or text == 'التحديثات' or text == 'تحديثات البوت' then  
+Text = [[*
+✦┇Source Neverland Updates
+┉ ┉ ┉ ┉ NE ┉ ┉ ┉ ┉*
+
+]]
+keyboard = {} 
+keyboard.inline_keyboard = {
+{
+{text = 'Annotations Source', url="https://t.me/DEV_Neverland"},
+},
+{
+{text = 'programmer Source', url="https://t.me/XCGCC"},
+},
+{
+{text = 'Developer Source !', url="https://t.me/B333BB"},
+},
+}
+local msg_id = msg.id_/2097152/0.5
+https.request("https://api.telegram.org/bot"..token..'/sendMessage?chat_id=' .. msg.chat_id_ .. '&text=' .. URL.escape(Text).."&reply_to_message_id="..msg_id.."&parse_mode=markdown&disable_web_page_preview=true&reply_markup="..JSON.encode(keyboard))
+return false
+end
+
 if text == 'اريد بوت' or text == 'اريد مطور' or text == 'خوش سورس' or text == 'مطور السورس' or text == 'اريد بوت تمبلر' or text == 'سورس نيفرلاند' or text == 'عجبني البوت' or text == 'منو منصبلك' or text == 'منو مطور السورس' or text == 'اريد انصب بوت' or text == 'مبرمج السورس' or text == 'انصبلك بوت' then
 Text = [[
 ✦┇Dev User : @B333BB
